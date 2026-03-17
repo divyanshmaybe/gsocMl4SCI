@@ -72,11 +72,11 @@ gsoc-2026-exxa/
 
 ---
 
-## 📊 Results & Performance
+##  Results & Performance
 
 | Metric | Score (Test Set) | Significance |
 | :--- | :--- | :--- |
-| **MSE** | `2.86e-5` | Near-perfect pixel matching; typically 10x lower than standard VAEs. |
+| **MSE** | `2.86e-5` | Good pixel matching |
 | **MS-SSIM** | `0.9852` | Captures structural similarity across multiple scales (fine rings vs global disk). |
 | **SSIM** | `0.9856` | Excellent preservation of local contrast and luminance. |
 | **Inference Time** | `<50ms` | Fast per-image encoding on standard GPU. |
