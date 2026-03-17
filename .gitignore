@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Virtual Environment
+.venv/
+env/
+venv/
+.env
+
+# Model weights (files > 100MB blocked by GitHub)
+*.pth
+
+# Data
+continuum_data_subset/
+sampletest/
+image_task/planet10_00710_1250.fits # Ignoring specific potential duplicates if they exist, but folder structure
+general_test/
+
+# VS Code
+.vscode/

@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<svg width="680" height="1380" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="arrow" markerHeight="6" markerWidth="6" orient="auto-start-reverse" refX="8" refY="5" viewBox="0 0 10 10">
+   <path d="m2,1l6,4l-6,4" fill="none" id="svg_1" stroke="context-stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </marker>
+  <mask id="imagine-text-gaps-ekhtml" maskUnits="userSpaceOnUse">
+   <rect fill="white" height="1380" id="svg_2" style="--darkreader-inline-fill: var(--darkreader-text-ffffff, #e8e6e3);" width="680" x="0" y="0"/>
+   <rect fill="black" height="21.75" id="svg_3" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="86.39" x="276.96" y="40.12"/>
+   <rect fill="black" height="18.67" id="svg_4" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="79.91" x="279.99" y="59.67"/>
+   <rect fill="black" height="21.75" id="svg_5" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="94.93" x="517.54" y="40.12"/>
+   <rect fill="black" height="18.67" id="svg_6" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="121.93" x="504.03" y="59.67"/>
+   <rect fill="black" height="21.75" id="svg_7" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="64.58" x="287.92" y="142.12"/>
+   <rect fill="black" height="18.67" id="svg_8" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="213.36" x="213.11" y="165.67"/>
+   <rect fill="black" height="18.67" id="svg_9" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="32.47" x="55.52" y="418.42"/>
+   <rect fill="black" height="18.67" id="svg_10" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="49.28" x="46.99" y="434.42"/>
+   <rect fill="black" height="21.75" id="svg_11" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="160.26" x="239.87" y="252.12"/>
+   <rect fill="black" height="18.67" id="svg_12" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="240.13" x="199.55" y="275.67"/>
+   <rect fill="black" height="21.75" id="svg_13" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="100.78" x="514.61" y="252.12"/>
+   <rect fill="black" height="18.67" id="svg_14" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="169.11" x="480.44" y="275.67"/>
+   <rect fill="black" height="21.75" id="svg_15" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="51.33" x="229.33" y="356.12"/>
+   <rect fill="black" height="18.67" id="svg_16" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="88.98" x="210.69" y="375.67"/>
+   <rect fill="black" height="21.75" id="svg_17" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="49.34" x="380.54" y="356.12"/>
+   <rect fill="black" height="18.67" id="svg_18" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="58.41" x="375.92" y="375.67"/>
+   <rect fill="black" height="21.75" id="svg_19" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="96.63" x="516.68" y="366.12"/>
+   <rect fill="black" height="18.67" id="svg_20" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="84.86" x="522.18" y="385.67"/>
+   <rect fill="black" height="21.75" id="svg_21" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="65.76" x="287.33" y="462.12"/>
+   <rect fill="black" height="18.67" id="svg_22" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="210.6" x="214.45" y="485.67"/>
+   <rect fill="black" height="21.75" id="svg_23" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="116.71" x="261.26" y="572.12"/>
+   <rect fill="black" height="18.67" id="svg_24" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="195.7" x="222.15" y="595.67"/>
+   <rect fill="black" height="21.75" id="svg_25" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="126.39" x="501.42" y="572.12"/>
+   <rect fill="black" height="18.67" id="svg_26" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="108.47" x="510.77" y="595.67"/>
+   <rect fill="black" height="21.75" id="svg_27" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="152.36" x="243.43" y="732.12"/>
+   <rect fill="black" height="18.67" id="svg_28" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="210.08" x="215.24" y="755.67"/>
+   <rect fill="black" height="21.75" id="svg_29" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="95.17" x="50.64" y="838.12"/>
+   <rect fill="black" height="18.67" id="svg_30" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="137.42" x="29.5" y="861.67"/>
+   <rect fill="black" height="21.75" id="svg_31" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="96.7" x="195.65" y="838.12"/>
+   <rect fill="black" height="18.67" id="svg_32" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="102.68" x="192.3" y="861.67"/>
+   <rect fill="black" height="21.75" id="svg_33" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="94.16" x="342.92" y="838.12"/>
+   <rect fill="black" height="18.67" id="svg_34" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="102.41" x="338.81" y="861.67"/>
+   <rect fill="black" height="21.75" id="svg_35" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="103.38" x="484.46" y="838.12"/>
+   <rect fill="black" height="18.67" id="svg_36" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="101.7" x="485.29" y="861.67"/>
+   <rect fill="black" height="18.67" id="svg_37" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="91.1" x="519.59" y="806.42"/>
+   <rect fill="black" height="21.75" id="svg_38" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="138.47" x="250.86" y="982.12"/>
+   <rect fill="black" height="18.67" id="svg_39" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="230.78" x="204.38" y="1005.67"/>
+   <rect fill="black" height="21.75" id="svg_40" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="69.77" x="124.73" y="1096.12"/>
+   <rect fill="black" height="18.67" id="svg_41" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="110.06" x="105.55" y="1115.67"/>
+   <rect fill="black" height="21.75" id="svg_42" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="112.69" x="283.65" y="1096.12"/>
+   <rect fill="black" height="18.67" id="svg_43" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="123.1" x="278.84" y="1115.67"/>
+   <rect fill="black" height="21.75" id="svg_44" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="102.94" x="468.53" y="1096.12"/>
+   <rect fill="black" height="18.67" id="svg_45" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="100.06" x="470.02" y="1115.67"/>
+   <rect fill="black" height="18.67" id="svg_46" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="119.12" x="152" y="1195.42"/>
+   <rect fill="black" height="18.67" id="svg_47" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="86.32" x="321.23" y="1195.42"/>
+   <rect fill="black" height="18.67" id="svg_48" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="101.19" x="452" y="1195.42"/>
+  </mask>
+  <filter id="svg_165_blur">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="0.5"/>
+  </filter>
+ </defs>
+ <!-- ══════════════════════════════════════════
+     ROW 1  y=30..86
+     Input  x=180..460   Radial x=490..640
+     ══════════════════════════════════════════ -->
+ <!-- ══════════════════════════════════════════
+     ROW 2  y=126..196  Encoder  x=180..460
+     skip conn left rail x=100
+     ══════════════════════════════════════════ -->
+ <!-- ══════════════════════════════════════════
+     ROW 3  y=236..306  Bottleneck  x=180..460
+     Planet head branches RIGHT  x=490..640
+     ══════════════════════════════════════════ -->
+ <!-- ══════════════════════════════════════════
+     ROW 4  y=306..376  μ x=180..330  logvar x=350..460
+     Planet map  x=490..640  (same row as latents)
+     ══════════════════════════════════════════ -->
+ <!-- planet map → planet loss (L-bend down and left, avoiding boxes) -->
+ <!-- μ + logvar → decoder -->
+ <!-- ══════════════════════════════════════════
+     ROW 5  y=446..516  Decoder  x=180..460
+     ══════════════════════════════════════════ -->
+ <!-- ══════════════════════════════════════════
+     ROW 6  y=556..626  Weighted loss x=180..460
+     Attention maps  x=490..640
+     ══════════════════════════════════════════ -->
+ <!-- ══════════════════════════════════════════
+     ROW 7  y=716..786  Joint augmentation x=180..460
+     ══════════════════════════════════════════ -->
+ <!-- ══════════════════════════════════════════
+     ROW 8  y=826..916  4 loss terms
+     widths: each ~140px, gap 6px
+     x: 30,176,322,468  each w=140
+     ══════════════════════════════════════════ -->
+ <!-- pointness map → planet loss (arrives at coral box) -->
+ <!-- ══════════════════════════════════════════
+     ROW 9  y=966..1036  Checkpoint x=180..460
+     ══════════════════════════════════════════ -->
+ <!-- ══════════════════════════════════════════
+     ROW 10  y=1086..1146  3 outputs
+     encode x=80..240  run_inf x=260..420  UMAP x=440..600
+     ══════════════════════════════════════════ -->
+ <!-- ══════════════════════════════════════════
+     LEGEND  y=1200
+     ══════════════════════════════════════════ -->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#017f3e" filter="url(#svg_165_blur)" height="54" id="svg_165" stroke="rgb(156, 154, 146)" stroke-dasharray="4px, 3px" stroke-width="1.5px" transform="matrix(1 0 0 1 2 4)" width="130" x="499.6" y="711"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_49" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(68, 68, 65)" height="56" id="svg_50" rx="8" stroke="rgb(180, 178, 169)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-444441, #323638); --darkreader-inline-stroke: var(--darkreader-text-b4b2a9, #b5afa5);" width="280" x="180" y="30"/>
+   <text dominant-baseline="central" fill="rgb(211, 209, 199)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_51" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-d3d1c7, #c8c4bd);" text-anchor="middle" x="320" y="51">Input image</text>
+   <text dominant-baseline="central" fill="rgb(180, 178, 169)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_52" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-b4b2a9, #b5afa5);" text-anchor="middle" x="320" y="69">128×128 FITS</text>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_53" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(8, 80, 65)" height="56" id="svg_54" rx="8" stroke="rgb(93, 202, 165)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-085041, #064034); --darkreader-inline-stroke: var(--darkreader-text-5dcaa5, #67cdab);" width="150" x="490" y="30"/>
+   <text dominant-baseline="central" fill="rgb(159, 225, 203)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_55" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-9fe1cb, #95dec6);" text-anchor="middle" x="565" y="51">Radial map ★</text>
+   <text dominant-baseline="central" fill="rgb(93, 202, 165)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_56" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-5dcaa5, #67cdab);" text-anchor="middle" x="565" y="69">injected every stage</text>
+  </g>
+  <line fill="none" id="svg_57" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="490" x2="462" y1="58" y2="58"/>
+  <line fill="none" id="svg_58" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="320" x2="320" y1="86" y2="126"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_59" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(60, 52, 137)" height="70" id="svg_60" rx="8" stroke="rgb(175, 169, 236)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-3c3489, #302a6e); --darkreader-inline-stroke: var(--darkreader-text-afa9ec, #a099e8);" width="280" x="180" y="126"/>
+   <text dominant-baseline="central" fill="rgb(206, 203, 246)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_61" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-cecbf6, #afc5f1);" text-anchor="middle" x="320" y="153">Encoder</text>
+   <text dominant-baseline="central" fill="rgb(175, 169, 236)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_62" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-afa9ec, #a099e8);" text-anchor="middle" x="320" y="175">enc1→enc5 · ResBlocks · GroupNorm</text>
+  </g>
+  <path d="m180,161l-80,0l0,594l80,0" fill="none" id="svg_63" marker-end="url(#arrow)" stroke="rgb(83, 74, 183)" stroke-dasharray="5px, 3px" stroke-width="0.8px" style="--darkreader-inline-stroke: var(--darkreader-text-534ab7, #5c7dbe);" transform="matrix(1 0 0 0.535354 0 74.8081)"/>
+  <text dominant-baseline="auto" fill="rgb(194, 192, 182)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_64" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-c2c0b6, #beb8b0);" text-anchor="middle" transform="matrix(1 0 0 1 27 -146)" x="72" y="432">skip</text>
+  <text dominant-baseline="auto" fill="rgb(194, 192, 182)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_65" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-c2c0b6, #beb8b0);" text-anchor="middle" transform="matrix(1 0 0 1 27 -146)" x="72" y="448">conn ★</text>
+  <line fill="none" id="svg_66" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="320" x2="320" y1="196" y2="236"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_67" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(99, 56, 6)" height="70" id="svg_68" rx="8" stroke="rgb(239, 159, 39)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-633806, #4f2d05); --darkreader-inline-stroke: var(--darkreader-text-ef9f27, #f0a738);" width="280" x="180" y="236"/>
+   <text dominant-baseline="central" fill="rgb(250, 199, 117)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_69" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-fac775, #fac46d);" text-anchor="middle" x="320" y="263">Bottleneck attention ★</text>
+   <text dominant-baseline="central" fill="rgb(239, 159, 39)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_70" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-ef9f27, #f0a738);" text-anchor="middle" x="320" y="285">self-attention 4×4 · global ring coherence</text>
+  </g>
+  <line fill="none" id="svg_71" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="460" x2="488" y1="271" y2="271"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_72" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start" transform="matrix(1.00634 0 0 1 -3.08433 0)">
+   <rect fill="rgb(113, 43, 19)" height="70" id="svg_73" rx="8" stroke="rgb(240, 153, 123)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-712b13, #5a220f); --darkreader-inline-stroke: var(--darkreader-text-f0997b, #ef9475);" width="150" x="490" y="236"/>
+   <text dominant-baseline="central" fill="rgb(245, 196, 179)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_74" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-f5c4b3, #f2b39d);" text-anchor="middle" x="565" y="263">Planet head ★</text>
+   <text dominant-baseline="central" fill="rgb(240, 153, 123)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_75" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-f0997b, #ef9475);" text-anchor="middle" x="565" y="285">Conv → Sigmoid → Upsample</text>
+  </g>
+  <line fill="none" id="svg_76" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="565" x2="565" y1="306" y2="356"/>
+  <line fill="none" id="svg_77" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="270" x2="240" y1="306" y2="346"/>
+  <line fill="none" id="svg_78" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="380" x2="406" y1="306" y2="346"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_79" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(60, 52, 137)" height="56" id="svg_80" rx="8" stroke="rgb(175, 169, 236)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-3c3489, #302a6e); --darkreader-inline-stroke: var(--darkreader-text-afa9ec, #a099e8);" width="150" x="180" y="346"/>
+   <text dominant-baseline="central" fill="rgb(206, 203, 246)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_81" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-cecbf6, #afc5f1);" text-anchor="middle" x="255" y="367">μ (mu)</text>
+   <text dominant-baseline="central" fill="rgb(175, 169, 236)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_82" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-afa9ec, #a099e8);" text-anchor="middle" x="255" y="385">128-dim latent</text>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_83" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(60, 52, 137)" height="56" id="svg_84" rx="8" stroke="rgb(175, 169, 236)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-3c3489, #302a6e); --darkreader-inline-stroke: var(--darkreader-text-afa9ec, #a099e8);" width="110" x="350" y="346"/>
+   <text dominant-baseline="central" fill="rgb(206, 203, 246)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_85" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-cecbf6, #afc5f1);" text-anchor="middle" x="405" y="367">logvar</text>
+   <text dominant-baseline="central" fill="rgb(175, 169, 236)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_86" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-afa9ec, #a099e8);" text-anchor="middle" x="405" y="385">reparam.</text>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_87" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(113, 43, 19)" height="56" id="svg_88" rx="8" stroke="rgb(240, 153, 123)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-712b13, #5a220f); --darkreader-inline-stroke: var(--darkreader-text-f0997b, #ef9475);" width="150" x="490" y="356"/>
+   <text dominant-baseline="central" fill="rgb(245, 196, 179)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_89" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-f5c4b3, #f2b39d);" text-anchor="middle" x="565" y="377">Planet map ★</text>
+   <text dominant-baseline="central" fill="rgb(240, 153, 123)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_90" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-f0997b, #ef9475);" text-anchor="middle" x="565" y="395">128×128 · [0,1]</text>
+  </g>
+  <line fill="none" id="svg_92" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="255" x2="280" y1="402" y2="446"/>
+  <line fill="none" id="svg_93" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="405" x2="360" y1="402" y2="446"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_94" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(60, 52, 137)" height="70" id="svg_95" rx="8" stroke="rgb(175, 169, 236)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-3c3489, #302a6e); --darkreader-inline-stroke: var(--darkreader-text-afa9ec, #a099e8);" width="280" x="180" y="446"/>
+   <text dominant-baseline="central" fill="rgb(206, 203, 246)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_96" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-cecbf6, #afc5f1);" text-anchor="middle" x="320" y="473">Decoder</text>
+   <text dominant-baseline="central" fill="rgb(175, 169, 236)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_97" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-afa9ec, #a099e8);" text-anchor="middle" x="320" y="495">dec5→dec1 · skip concat · radial map</text>
+  </g>
+  <line fill="none" id="svg_98" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="320" x2="320" y1="516" y2="556"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_99" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(99, 56, 6)" height="70" id="svg_100" rx="8" stroke="rgb(239, 159, 39)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-633806, #4f2d05); --darkreader-inline-stroke: var(--darkreader-text-ef9f27, #f0a738);" width="280" x="180" y="556"/>
+   <text dominant-baseline="central" fill="rgb(250, 199, 117)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_101" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-fac775, #fac46d);" text-anchor="middle" x="320" y="583">Weighted loss ★</text>
+   <text dominant-baseline="central" fill="rgb(239, 159, 39)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_102" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-ef9f27, #f0a738);" text-anchor="middle" x="320" y="605">1 + 1000×clean + 5000×pointness</text>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_103" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(8, 80, 65)" height="70" id="svg_104" rx="8" stroke="rgb(93, 202, 165)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-085041, #064034); --darkreader-inline-stroke: var(--darkreader-text-5dcaa5, #67cdab);" width="150" x="490" y="556"/>
+   <text dominant-baseline="central" fill="rgb(159, 225, 203)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_105" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-9fe1cb, #95dec6);" text-anchor="middle" x="565" y="583">Attention maps ★</text>
+   <text dominant-baseline="central" fill="rgb(93, 202, 165)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_106" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-5dcaa5, #67cdab);" text-anchor="middle" x="565" y="605">clean + pointness</text>
+  </g>
+  <line fill="none" id="svg_107" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="490" x2="462" y1="591" y2="591"/>
+  <line fill="none" id="svg_108" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="320" x2="320" y1="626" y2="716"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_109" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(8, 80, 65)" height="70" id="svg_110" rx="8" stroke="rgb(93, 202, 165)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-085041, #064034); --darkreader-inline-stroke: var(--darkreader-text-5dcaa5, #67cdab);" width="280" x="180" y="716"/>
+   <text dominant-baseline="central" fill="rgb(159, 225, 203)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_111" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-9fe1cb, #95dec6);" text-anchor="middle" x="320" y="743">Joint augmentation ★</text>
+   <text dominant-baseline="central" fill="rgb(93, 202, 165)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_112" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-5dcaa5, #67cdab);" text-anchor="middle" x="320" y="765">image + maps transformed together</text>
+  </g>
+  <line fill="none" id="svg_113" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="320" x2="320" y1="786" y2="826"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_114" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(68, 68, 65)" height="70" id="svg_115" rx="8" stroke="rgb(180, 178, 169)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-444441, #323638); --darkreader-inline-stroke: var(--darkreader-text-b4b2a9, #b5afa5);" width="136" x="30" y="826"/>
+   <text dominant-baseline="central" fill="rgb(211, 209, 199)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_116" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-d3d1c7, #c8c4bd);" text-anchor="middle" x="98" y="849">Recon losses</text>
+   <text dominant-baseline="central" fill="rgb(180, 178, 169)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_117" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-b4b2a9, #b5afa5);" text-anchor="middle" x="98" y="871">SSIM · MS-L1 · grad · TV</text>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_118" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(68, 68, 65)" height="70" id="svg_119" rx="8" stroke="rgb(180, 178, 169)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-444441, #323638); --darkreader-inline-stroke: var(--darkreader-text-b4b2a9, #b5afa5);" width="136" x="176" y="826"/>
+   <text dominant-baseline="central" fill="rgb(211, 209, 199)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_120" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-d3d1c7, #c8c4bd);" text-anchor="middle" x="244" y="849">Disk losses ★</text>
+   <text dominant-baseline="central" fill="rgb(180, 178, 169)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_121" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-b4b2a9, #b5afa5);" text-anchor="middle" x="244" y="871">azimuthal · radial</text>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_122" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(113, 43, 19)" height="70" id="svg_123" rx="8" stroke="rgb(240, 153, 123)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-712b13, #5a220f); --darkreader-inline-stroke: var(--darkreader-text-f0997b, #ef9475);" width="136" x="322" y="826"/>
+   <text dominant-baseline="central" fill="rgb(245, 196, 179)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_124" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-f5c4b3, #f2b39d);" text-anchor="middle" x="390" y="849">Planet loss ★</text>
+   <text dominant-baseline="central" fill="rgb(240, 153, 123)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_125" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-f0997b, #ef9475);" text-anchor="middle" x="390" y="871">mask · head MSE</text>
+  </g>
+  <line fill="none" id="svg_130" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="270" x2="98" y1="786" y2="826"/>
+  <line fill="none" id="svg_131" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="300" x2="244" y1="786" y2="826"/>
+  <line fill="none" id="svg_132" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="340" x2="390" y1="786" y2="826"/>
+  <text dominant-baseline="auto" fill="rgb(194, 192, 182)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_134" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-c2c0b6, #beb8b0);" text-anchor="middle" transform="matrix(0.988099 0 0 1.18182 3.22478 -228.218)" x="565" y="820">pointness map</text>
+  <line fill="none" id="svg_135" marker-end="url(#arrow)" mask="url(#imagine-text-gaps-ekhtml)" stroke="rgb(156, 154, 146)" stroke-dasharray="4px, 3px" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" transform="matrix(1 0 0 0.505435 0 309.598)" x1="565" x2="565" y1="626" y2="810"/>
+  <line fill="none" id="svg_136" marker-end="url(#arrow)" mask="url(#imagine-text-gaps-ekhtml)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="561" x2="422" y1="768" y2="825"/>
+  <line fill="none" id="svg_137" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="244" x2="280" y1="896" y2="966"/>
+  <line fill="none" id="svg_138" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="390" x2="320" y1="896" y2="966"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_139" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(68, 68, 65)" height="70" id="svg_140" rx="8" stroke="rgb(180, 178, 169)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-444441, #323638); --darkreader-inline-stroke: var(--darkreader-text-b4b2a9, #b5afa5);" width="280" x="180" y="966"/>
+   <text dominant-baseline="central" fill="rgb(211, 209, 199)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_141" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-d3d1c7, #c8c4bd);" text-anchor="middle" x="320" y="993">Best val checkpoint</text>
+   <text dominant-baseline="central" fill="rgb(180, 178, 169)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_142" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-b4b2a9, #b5afa5);" text-anchor="middle" x="320" y="1015">early stopping · patience 100 · cosine LR</text>
+  </g>
+  <line fill="none" id="svg_143" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="280" x2="180" y1="1036" y2="1086"/>
+  <line fill="none" id="svg_144" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="320" x2="320" y1="1036" y2="1086"/>
+  <line fill="none" id="svg_145" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" style="--darkreader-inline-stroke: var(--darkreader-border-9c9a92, #4d5457);" x1="360" x2="460" y1="1036" y2="1086"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_146" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(60, 52, 137)" height="56" id="svg_147" rx="8" stroke="rgb(175, 169, 236)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-3c3489, #302a6e); --darkreader-inline-stroke: var(--darkreader-text-afa9ec, #a099e8);" width="160" x="80" y="1086"/>
+   <text dominant-baseline="central" fill="rgb(206, 203, 246)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_148" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-cecbf6, #afc5f1);" text-anchor="middle" x="160" y="1107">encode()</text>
+   <text dominant-baseline="central" fill="rgb(175, 169, 236)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_149" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-afa9ec, #a099e8);" text-anchor="middle" x="160" y="1125">μ → 128-dim latent</text>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_150" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(113, 43, 19)" height="56" id="svg_151" rx="8" stroke="rgb(240, 153, 123)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-712b13, #5a220f); --darkreader-inline-stroke: var(--darkreader-text-f0997b, #ef9475);" width="160" x="260" y="1086"/>
+   <text dominant-baseline="central" fill="rgb(245, 196, 179)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_152" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-f5c4b3, #f2b39d);" text-anchor="middle" x="340" y="1107">run_inference()</text>
+   <text dominant-baseline="central" fill="rgb(240, 153, 123)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_153" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-f0997b, #ef9475);" text-anchor="middle" x="340" y="1125">recon + planet maps</text>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_154" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-background-000000, #000000);" text-anchor="start">
+   <rect fill="rgb(8, 80, 65)" height="56" id="svg_155" rx="8" stroke="rgb(93, 202, 165)" stroke-width="0.5px" style="--darkreader-inline-fill: var(--darkreader-background-085041, #064034); --darkreader-inline-stroke: var(--darkreader-text-5dcaa5, #67cdab);" width="160" x="440" y="1086"/>
+   <text dominant-baseline="central" fill="rgb(159, 225, 203)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_156" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-9fe1cb, #95dec6);" text-anchor="middle" x="520" y="1107">UMAP + GMM</text>
+   <text dominant-baseline="central" fill="rgb(93, 202, 165)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_157" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-5dcaa5, #67cdab);" text-anchor="middle" x="520" y="1125">latent clustering</text>
+  </g>
+  <rect fill="rgb(29, 158, 117)" height="10" id="svg_158" rx="2" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-1d9e75, #65e3bb);" width="10" x="140" y="1200"/>
+  <text dominant-baseline="auto" fill="rgb(194, 192, 182)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_159" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-c2c0b6, #beb8b0);" text-anchor="start" x="156" y="1209">★ novel component</text>
+  <rect fill="rgb(83, 74, 183)" height="10" id="svg_160" rx="2" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-534ab7, #5c7dbe);" width="10" x="310" y="1200"/>
+  <text dominant-baseline="auto" fill="rgb(194, 192, 182)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_161" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-c2c0b6, #beb8b0);" text-anchor="start" x="326" y="1209">standard VAE</text>
+  <rect fill="rgb(153, 60, 29)" height="10" id="svg_162" rx="2" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-993c1d, #e38769);" width="10" x="440" y="1200"/>
+  <text dominant-baseline="auto" fill="rgb(194, 192, 182)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_163" stroke-width="1px" style="--darkreader-inline-fill: var(--darkreader-text-c2c0b6, #beb8b0);" text-anchor="start" x="456" y="1209">planet detection</text>
+  <path d="m506.97,385.86l-30.28,0l0,458.28l-70.66,0" fill="none" id="svg_91" marker-end="url(#arrow)" mask="url(#imagine-text-gaps-ekhtml)" stroke="rgb(153, 60, 29)" stroke-dasharray="5px, 3px" stroke-width="0.8px"/>
+ </g>
+</svg>
