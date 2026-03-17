@@ -19,7 +19,6 @@ venv/
 continuum_data_subset/
 sampletest/
 image_task/planet10_00710_1250.fits # Ignoring specific potential duplicates if they exist, but folder structure
-general_test/
 
 # VS Code
 .vscode/

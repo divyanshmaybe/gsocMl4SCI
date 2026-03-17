@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<svg width="680" height="900" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="arrow" markerHeight="6" markerWidth="6" orient="auto-start-reverse" refX="8" refY="5" viewBox="0 0 10 10">
+   <path d="m2,1l6,4l-6,4" fill="none" id="svg_1" stroke="context-stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </marker>
+  <mask id="imagine-text-gaps-az0qia" maskUnits="userSpaceOnUse">
+   <rect fill="white" height="900" id="svg_2" style="--darkreader-inline-fill: var(--darkreader-text-ffffff, #e8e6e3);" width="680" x="0" y="0"/>
+   <rect fill="black" height="21.75" id="svg_3" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="91.06" x="294.66" y="29.12"/>
+   <rect fill="black" height="18.67" id="svg_4" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="239.74" x="220.24" y="48.67"/>
+   <rect fill="black" height="21.75" id="svg_5" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="175.67" x="252.17" y="109.12"/>
+   <rect fill="black" height="18.67" id="svg_6" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="241.06" x="219.86" y="128.67"/>
+   <rect fill="black" height="21.75" id="svg_7" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="66.09" x="307.1" y="189.12"/>
+   <rect fill="black" height="18.67" id="svg_8" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="297" x="191.5" y="208.67"/>
+   <rect fill="black" height="21.75" id="svg_9" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="61.58" x="309.01" y="271.12"/>
+   <rect fill="black" height="18.67" id="svg_10" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="250.62" x="214.72" y="290.67"/>
+   <rect fill="black" height="18.67" id="svg_11" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="230.05" x="225.36" y="306.67"/>
+   <rect fill="black" height="18.67" id="svg_12" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="142.09" x="506" y="270.42"/>
+   <rect fill="black" height="18.67" id="svg_13" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="156.76" x="506" y="284.42"/>
+   <rect fill="black" height="21.75" id="svg_14" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="128.06" x="275.97" y="363.12"/>
+   <rect fill="black" height="18.67" id="svg_15" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="149.67" x="264.78" y="381.67"/>
+   <rect fill="black" height="21.75" id="svg_16" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="136.46" x="91.78" y="449.12"/>
+   <rect fill="black" height="18.67" id="svg_17" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="161.07" x="79.47" y="468.67"/>
+   <rect fill="black" height="18.67" id="svg_18" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="176.68" x="71.66" y="484.67"/>
+   <rect fill="black" height="21.75" id="svg_19" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="123.43" x="458.3" y="449.12"/>
+   <rect fill="black" height="18.67" id="svg_20" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="112.16" x="463.92" y="468.67"/>
+   <rect fill="black" height="18.67" id="svg_21" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="184.11" x="427.85" y="484.67"/>
+   <rect fill="black" height="21.75" id="svg_22" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="117.99" x="101.02" y="545.12"/>
+   <rect fill="black" height="18.67" id="svg_23" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="155.69" x="82.15" y="564.67"/>
+   <rect fill="black" height="18.67" id="svg_24" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="191.11" x="64.73" y="580.67"/>
+   <rect fill="black" height="21.75" id="svg_25" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="120.48" x="99.97" y="641.12"/>
+   <rect fill="black" height="18.67" id="svg_26" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="192.21" x="63.51" y="660.67"/>
+   <rect fill="black" height="21.75" id="svg_27" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="129.84" x="455.27" y="545.12"/>
+   <rect fill="black" height="18.67" id="svg_28" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="149.56" x="445.8" y="564.67"/>
+   <rect fill="black" height="18.67" id="svg_29" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="212.02" x="414.13" y="580.67"/>
+   <rect fill="black" height="21.75" id="svg_30" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="122.02" x="459" y="641.12"/>
+   <rect fill="black" height="18.67" id="svg_31" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="161.26" x="439.65" y="660.67"/>
+   <rect fill="black" height="21.75" id="svg_32" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="105.49" x="287.46" y="739.12"/>
+   <rect fill="black" height="18.67" id="svg_33" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="254.48" x="213.05" y="758.67"/>
+   <rect fill="black" height="18.67" id="svg_34" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="184.29" x="248" y="774.67"/>
+   <rect fill="black" height="21.75" id="svg_35" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="57.77" x="311.31" y="831.12"/>
+   <rect fill="black" height="18.67" id="svg_36" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="298.82" x="190.59" y="849.67"/>
+   <rect fill="black" height="18.67" id="svg_37" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="76.32" x="41.23" y="15.42"/>
+   <rect fill="black" height="18.67" id="svg_38" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="101.19" x="42" y="33.42"/>
+   <rect fill="black" height="18.67" id="svg_39" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="90.86" x="41.23" y="51.42"/>
+   <rect fill="black" height="18.67" id="svg_40" rx="2" style="--darkreader-inline-fill: var(--darkreader-text-000000, #e8e6e3);" width="107.97" x="42" y="69.42"/>
+  </mask>
+ </defs>
+ <!-- BLOCK 1: DATA -->
+ <!-- BLOCK 2: PREPROCESS -->
+ <!-- BLOCK 3: MODEL -->
+ <!-- BLOCK 4: TRAINING -->
+ <!-- ANNOTATION -->
+ <!-- CHECKPOINT -->
+ <!-- SPLIT -->
+ <!-- PATH A: RESIDUAL -->
+ <!-- PATH B: LATENT -->
+ <!-- PLANET DETECTION -->
+ <!-- PARAMETER TUNER -->
+ <!-- CLUSTERING -->
+ <!-- UMAP -->
+ <!-- MERGE -->
+ <!-- FINAL OUTPUT -->
+ <!-- FINDING -->
+ <!-- LEGEND -->
+ <g class="layer">
+  <title>Layer 1</title>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_41" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(68, 68, 65)" height="56" id="svg_42" rx="8" stroke="rgb(180, 178, 169)" stroke-width="0.5px" width="280" x="200" y="20"/>
+   <text dominant-baseline="central" fill="rgb(211, 209, 199)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_43" stroke-width="1px" text-anchor="middle" x="340" y="40">Data loading</text>
+   <text dominant-baseline="central" fill="rgb(180, 178, 169)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_44" stroke-width="1px" text-anchor="middle" x="340" y="58">FITS · arcsinh stretch · star mask · 128×128</text>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_45" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(68, 68, 65)" height="56" id="svg_46" rx="8" stroke="rgb(180, 178, 169)" stroke-width="0.5px" width="280" x="200" y="100"/>
+   <text dominant-baseline="central" fill="rgb(211, 209, 199)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_47" stroke-width="1px" text-anchor="middle" x="340" y="120">Radial profile subtraction</text>
+   <text dominant-baseline="central" fill="rgb(180, 178, 169)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_48" stroke-width="1px" text-anchor="middle" x="340" y="138">Per-ring median · robust to bright sources</text>
+  </g>
+  <line fill="none" id="svg_49" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="340" x2="340" y1="76" y2="100"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_50" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(60, 52, 137)" height="56" id="svg_51" rx="8" stroke="rgb(175, 169, 236)" stroke-width="0.5px" width="280" x="200" y="180"/>
+   <text dominant-baseline="central" fill="rgb(206, 203, 246)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_52" stroke-width="1px" text-anchor="middle" x="340" y="200">DiskVAE</text>
+   <text dominant-baseline="central" fill="rgb(175, 169, 236)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_53" stroke-width="1px" text-anchor="middle" x="340" y="218">Radial map · skip connections · bottleneck attention</text>
+  </g>
+  <line fill="none" id="svg_54" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="340" x2="340" y1="156" y2="180"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_55" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(99, 56, 6)" height="70" id="svg_56" rx="8" stroke="rgb(239, 159, 39)" stroke-width="0.5px" width="280" x="200" y="260"/>
+   <text dominant-baseline="central" fill="rgb(250, 199, 117)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_57" stroke-width="1px" text-anchor="middle" x="340" y="282">Training</text>
+   <text dominant-baseline="central" fill="rgb(239, 159, 39)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_58" stroke-width="1px" text-anchor="middle" x="340" y="300">Reconstructs blurred input, not the original</text>
+   <text dominant-baseline="central" fill="rgb(239, 159, 39)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_59" stroke-width="1px" text-anchor="middle" x="340" y="316">Latent captures disk shape, not planets</text>
+  </g>
+  <line fill="none" id="svg_60" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="340" x2="340" y1="236" y2="260"/>
+  <text dominant-baseline="auto" fill="#ffffff" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_61" stroke-width="1px" text-anchor="start" transform="matrix(1 0 0 1 2 3)" x="510" y="284">planets erased in target</text>
+  <text dominant-baseline="auto" fill="#ffffff" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_62" stroke-width="1px" text-anchor="start" transform="matrix(1 0 0 1 2 3)" x="510" y="298">clean morphology space</text>
+  <line fill="none" id="svg_63" mask="url(#imagine-text-gaps-az0qia)" stroke="rgb(186, 117, 23)" stroke-dasharray="3px, 3px" stroke-width="0.5px" x1="480" x2="508" y1="292" y2="292"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_64" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(68, 68, 65)" height="44" id="svg_65" rx="8" stroke="rgb(180, 178, 169)" stroke-width="0.5px" width="240" x="220" y="356"/>
+   <text dominant-baseline="central" fill="rgb(211, 209, 199)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_66" stroke-width="1px" text-anchor="middle" x="340" y="374">Checkpoint saved</text>
+   <text dominant-baseline="central" fill="rgb(180, 178, 169)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_67" stroke-width="1px" text-anchor="middle" x="340" y="391">disk_vae_checkpoint.pth</text>
+  </g>
+  <line fill="none" id="svg_68" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="340" x2="340" y1="330" y2="356"/>
+  <line fill="none" id="svg_69" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="260" x2="160" y1="400" y2="440"/>
+  <line fill="none" id="svg_70" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="420" x2="520" y1="400" y2="440"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_71" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(113, 43, 19)" height="70" id="svg_72" rx="8" stroke="rgb(240, 153, 123)" stroke-width="0.5px" width="200" x="60" y="440"/>
+   <text dominant-baseline="central" fill="rgb(245, 196, 179)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_73" stroke-width="1px" text-anchor="middle" x="160" y="460">Residual extraction</text>
+   <text dominant-baseline="central" fill="rgb(240, 153, 123)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_74" stroke-width="1px" text-anchor="middle" x="160" y="478">Input minus reconstruction</text>
+   <text dominant-baseline="central" fill="rgb(240, 153, 123)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_75" stroke-width="1px" text-anchor="middle" x="160" y="494">Disk removed · planets remain</text>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_76" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(60, 52, 137)" height="70" id="svg_77" rx="8" stroke="rgb(175, 169, 236)" stroke-width="0.5px" width="200" x="420" y="440"/>
+   <text dominant-baseline="central" fill="rgb(206, 203, 246)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_78" stroke-width="1px" text-anchor="middle" x="520" y="460">Latent extraction</text>
+   <text dominant-baseline="central" fill="rgb(175, 169, 236)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_79" stroke-width="1px" text-anchor="middle" x="520" y="478">μ vector per image</text>
+   <text dominant-baseline="central" fill="rgb(175, 169, 236)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_80" stroke-width="1px" text-anchor="middle" x="520" y="494">128-dim morphology descriptor</text>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_81" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(113, 43, 19)" height="70" id="svg_82" rx="8" stroke="rgb(240, 153, 123)" stroke-width="0.5px" width="200" x="60" y="536"/>
+   <text dominant-baseline="central" fill="rgb(245, 196, 179)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_83" stroke-width="1px" text-anchor="middle" x="160" y="556">Planet detection</text>
+   <text dominant-baseline="central" fill="rgb(240, 153, 123)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_84" stroke-width="1px" text-anchor="middle" x="160" y="574">LoG filter · MAD threshold</text>
+   <text dominant-baseline="central" fill="rgb(240, 153, 123)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_85" stroke-width="1px" text-anchor="middle" x="160" y="590">Compactness and contrast filter</text>
+  </g>
+  <line fill="none" id="svg_86" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="160" x2="160" y1="510" y2="536"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_87" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(68, 68, 65)" height="56" id="svg_88" rx="8" stroke="rgb(180, 178, 169)" stroke-width="0.5px" width="200" x="60" y="632"/>
+   <text dominant-baseline="central" fill="rgb(211, 209, 199)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_89" stroke-width="1px" text-anchor="middle" x="160" y="652">Interactive tuner</text>
+   <text dominant-baseline="central" fill="rgb(180, 178, 169)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_90" stroke-width="1px" text-anchor="middle" x="160" y="670">Widget for threshold exploration</text>
+  </g>
+  <line fill="none" id="svg_91" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="160" x2="160" y1="606" y2="632"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_92" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(8, 80, 65)" height="70" id="svg_93" rx="8" stroke="rgb(93, 202, 165)" stroke-width="0.5px" width="200" x="420" y="536"/>
+   <text dominant-baseline="central" fill="rgb(159, 225, 203)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_94" stroke-width="1px" text-anchor="middle" x="520" y="556">Primary clustering</text>
+   <text dominant-baseline="central" fill="rgb(93, 202, 165)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_95" stroke-width="1px" text-anchor="middle" x="520" y="574">Grouped by planet count</text>
+   <text dominant-baseline="central" fill="rgb(93, 202, 165)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_96" stroke-width="1px" text-anchor="middle" x="520" y="590">GMM subclusters within each group</text>
+  </g>
+  <line fill="none" id="svg_97" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="520" x2="520" y1="510" y2="536"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_98" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(8, 80, 65)" height="56" id="svg_99" rx="8" stroke="rgb(93, 202, 165)" stroke-width="0.5px" width="200" x="420" y="632"/>
+   <text dominant-baseline="central" fill="rgb(159, 225, 203)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_100" stroke-width="1px" text-anchor="middle" x="520" y="652">UMAP projection</text>
+   <text dominant-baseline="central" fill="rgb(93, 202, 165)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_101" stroke-width="1px" text-anchor="middle" x="520" y="670">2D · coloured by subcluster</text>
+  </g>
+  <line fill="none" id="svg_102" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="520" x2="520" y1="606" y2="632"/>
+  <line fill="none" id="svg_103" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="160" x2="260" y1="688" y2="730"/>
+  <line fill="none" id="svg_104" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="520" x2="420" y1="688" y2="730"/>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_105" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(60, 52, 137)" height="70" id="svg_106" rx="8" stroke="rgb(175, 169, 236)" stroke-width="0.5px" width="280" x="200" y="730"/>
+   <text dominant-baseline="central" fill="rgb(206, 203, 246)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_107" stroke-width="1px" text-anchor="middle" x="340" y="750">Cluster viewer</text>
+   <text dominant-baseline="central" fill="rgb(175, 169, 236)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_108" stroke-width="1px" text-anchor="middle" x="340" y="768">Browse images by morphological subcluster</text>
+   <text dominant-baseline="central" fill="rgb(175, 169, 236)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_109" stroke-width="1px" text-anchor="middle" x="340" y="784">Planet count overlaid per group</text>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="16px" font-weight="400" id="svg_110" stroke-width="1px" text-anchor="start">
+   <rect fill="rgb(68, 68, 65)" height="44" id="svg_111" rx="8" stroke="rgb(180, 178, 169)" stroke-width="0.5px" width="280" x="200" y="824"/>
+   <text dominant-baseline="central" fill="rgb(211, 209, 199)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="14px" font-weight="500" id="svg_112" stroke-width="1px" text-anchor="middle" x="340" y="842">Finding</text>
+   <text dominant-baseline="central" fill="rgb(180, 178, 169)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_113" stroke-width="1px" text-anchor="middle" x="340" y="859">Morphology alone does not predict planet presence</text>
+  </g>
+  <line fill="none" id="svg_114" marker-end="url(#arrow)" stroke="rgb(156, 154, 146)" stroke-width="1.5px" x1="340" x2="340" y1="800" y2="824"/>
+  <rect fill="rgb(83, 74, 183)" height="10" id="svg_115" rx="2" stroke-width="1px" width="10" x="30" y="20"/>
+  <text dominant-baseline="auto" fill="rgb(194, 192, 182)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_116" stroke-width="1px" text-anchor="start" x="46" y="29">VAE / latent</text>
+  <rect fill="rgb(153, 60, 29)" height="10" id="svg_117" rx="2" stroke-width="1px" width="10" x="30" y="38"/>
+  <text dominant-baseline="auto" fill="rgb(194, 192, 182)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_118" stroke-width="1px" text-anchor="start" x="46" y="47">planet detection</text>
+  <rect fill="rgb(15, 110, 86)" height="10" id="svg_119" rx="2" stroke-width="1px" width="10" x="30" y="56"/>
+  <text dominant-baseline="auto" fill="rgb(194, 192, 182)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_120" stroke-width="1px" text-anchor="start" x="46" y="65">clustering / viz</text>
+  <rect fill="rgb(186, 117, 23)" height="10" id="svg_121" rx="2" stroke-width="1px" width="10" x="30" y="74"/>
+  <text dominant-baseline="auto" fill="rgb(194, 192, 182)" font-family="&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif" font-size="12px" font-weight="400" id="svg_122" stroke-width="1px" text-anchor="start" x="46" y="83">key design choice</text>
+ </g>
+</svg>
