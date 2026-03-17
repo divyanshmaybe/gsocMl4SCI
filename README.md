@@ -6,12 +6,12 @@
 
 ---
 
-## 🌌 Overview
+##  Overview
 This repository contains advanced machine learning pipelines designed to analyze synthetic ALMA observations of protoplanetary disks. As the birthplaces of planets, these disks are rich with faint structural details—gaps, rings, and potential protoplanets—that are often lost in standard deep learning pipelines. 
 
 Unlike standard computer vision approaches, the models here are **physics-informed**. They incorporate geometric priors (radial symmetry), domain-specific attention mechanisms, and custom loss functions to detect faint planets and preserve fine ring structures that traditional autoencoders often blur out.
 
-## 🚀 Key Innovations
+##  Key Innovations
 | Feature | Standard Approach | My Approach (DiskVAE) |
 | :--- | :--- | :--- |
 | **Geometry Awareness** | CNNs treat disks like generic images | **Radial Conditioning:** Injects polar coordinate grids so the model understands "distance from center", preserving ring integrity. |
@@ -43,9 +43,9 @@ gsoc-2026-exxa/
 
 ---
 
-## 🧠 Approach & Architectures
+##  Approach & Architectures
 
-### 1. General Test: Unsupervised Clustering & Anomaly Detection
+### 1. General Test: Unsupervised Clustering 
 **Goal:** Group disks by morphology and automatically flag planet candidates without labels.
 
 *   **Strategy:**
