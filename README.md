@@ -36,27 +36,29 @@ gsoc-2026-exxa/
 
 ---
 
-## Task 1: General Test
+## Task 1 : General Test
+**Goal:** Unsupervised clustering of synthetic ALMA continuum observations to discover disk properties, particularly planet presence, without any labels.
 
-**Goal:** Unsupervised clustering of disks to identify properties (specifically planets) without labels.
+Methodology
 
-### The Methodology
-1.  **Preprocessing:** Arcsinh stretch, normalization, and central star masking.
-2.  **Feature Extraction:** Used a custom Convolutional Autoencoder to compress images into a compact latent representation.
-3.  **Clustering:** Applied **Gaussian Mixture Models (GMM)** on the latent vectors to group disks by morphology.
-4.  **Analysis:** The resulting clusters clearly separated transition disks, multi-ring systems, and smooth disks.
+1. **Preprocessing** : Raw FITS frames are cleaned through NaN removal, arcsinh stretch, central star masking via local annulus median replacement, and normalization to [0, 1]. A radial profile subtraction step removes the smooth stellar brightness gradient, making the pipeline robust to bright planet spots that would otherwise bias the background model.
+2. **Feature Extraction** : I trained a ring-aware Variational Autoencoder (DiskVAE) to compress each 128×128 disk image into a 128-dimensional latent vector. The architecture injects a normalized radial distance map at every stage, adds self-attention at the 4×4 bottleneck to enforce global ring coherence, and uses U-Net skip connections to preserve fine ring detail. The reconstruction target is a Gaussian-blurred version of the input , this deliberately erases planet signals, forcing the latent space to encode only smooth disk morphology.
+3. **Planet Detection** : Because the VAE reconstructs disk background only, subtracting the reconstruction from the input produces a residual containing compact point-like sources. A LoG-based pipeline filters these peaks by compactness, contrast, core size, and ring contamination to produce planet candidate detections per image. Detections are used only for post-hoc analysis of cluster results, not during training or clustering.
+4. **Clustering** : Latent vectors are first grouped by detected planet count (0, 1, 2+) as a primary partition. Within each group, PCA followed by GMM with BIC-selected k finds morphological subclusters. The full latent space is projected to 2D using UMAP for visualization.
+
+
 
 #### Pipeline Diagram
-![Task 1 Pipeline](general_test/general_test_pipeline_v2.svg)
+![pipelineArchitecture](general_task_task/general_test_pipeline_v2.svg)
 
-### Clustering Results
-The clustering successfully separates disks based on their morphological features. Below is the visualization of the learned clusters.
-![Clustering Map](general_test/clustermap.png)
+#### Clustering Results
+![pipelineArchitecture](general_task_task/clustermap.png)
+The UMAP projection shows each disk as a single point projected from 128 dimensions. Shape encodes planet count. Circles for 0 planets, squares for 1, triangles for 2 or more. Color and letter suffix indicate the GMM morphological subcluster within each group.
+Show Image
 
-### Conclusion
-The UMAP projection reveals three distinguishable morphological clusters formed purely from the latent space, with no planet count information used during clustering. Overlaying the detected planet candidates shows that disk morphology and planetary features are not independent , there is a meaningful relationship between the two but morphology alone is not a sufficient predictor of whether a planet is present. The majority of the latent space shows mixing between planet groups.
-Two signals do emerge with confidence at the extremes. The top-left cluster is strongly enriched in planet-free disks, while the bottom-right cluster contains predominantly disks hosting one or more planets. Disks that fall in these extreme morphological regions carry a noticeably higher predictive signal than those in the central mixed region, suggesting that certain structural features — localised brightness enhancements, ring asymmetries, or gap depths are genuinely associated with planet formation activity, even if the full relationship cannot be captured by morphology alone.
-
+## Conclusion
+The UMAP projection reveals three broad morphological regions formed purely from the latent space, with no planet count information used during clustering. Overlaying the detected planet candidates shows that disk morphology and planetary features are not independent , there is a meaningful relationship between the two , but morphology alone is not a sufficient predictor of whether a planet is present. The central region shows heavy mixing across all three planet groups.
+Two signals emerge with confidence at the extremes. The top-left region is strongly enriched in planet-free disks, while the bottom-right island contains predominantly disks hosting one or more planets. Disks falling in these extreme morphological regions carry a noticeably higher predictive signal, suggesting that certain structural features , localised brightness enhancements, ring asymmetries, or gap depths, are genuinely associated with planet formation activity, even if the full relationship cannot be captured by morphology alone.
 The notebook `general_test/General_Test.ipynb` contains the full pipeline from raw FITS files to visualized clusters.
 
 ---
