@@ -1,7 +1,7 @@
-# GSoC 2026 | ML4Sci EXXA | Protoplanetary Disk Analysis
+# GSoC 2026 | ML4Sci EXXA 
 
 **Candidate:** Divyansh Soni  
-**Target Project:** EXXA2 (Deep Learning for Identifying Planet Formation in Protoplanetary Disks)  
+**Target Project:** EXXA2  
 **Status:** Completed (General Test + Image-Based Test)
 
 ---
