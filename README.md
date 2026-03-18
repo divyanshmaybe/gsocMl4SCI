@@ -49,12 +49,11 @@ Methodology
 
 
 #### Pipeline Diagram
-![pipelineArchitecture](general_task/general_test_pipeline_v2.svg)
+![pipelineArchitecture](general_test/general_test_pipeline_v2.svg)
 
 #### Clustering Results
-![pipelineArchitecture](general_task/clustermap.png)
 The UMAP projection shows each disk as a single point projected from 128 dimensions. Shape encodes planet count. Circles for 0 planets, squares for 1, triangles for 2 or more. Color and letter suffix indicate the GMM morphological subcluster within each group.
-Show Image
+![Result](general_test/clustermap.png)
 
 ## Conclusion
 The UMAP projection reveals three broad morphological regions formed purely from the latent space, with no planet count information used during clustering. Overlaying the detected planet candidates shows that disk morphology and planetary features are not independent , there is a meaningful relationship between the two , but morphology alone is not a sufficient predictor of whether a planet is present. The central region shows heavy mixing across all three planet groups.
