@@ -105,11 +105,12 @@ To run inference on new data:
 **Both notebooks are self-contained.**
 
 1.  **Setup Data:** Place the `.fits` files in a folder named `continuum_data_subset/` in the root directory.
-2.  **Run Image Task (EXXA2):**
+2.  **Setup trained model** Place the `task1.pth` in general_test folder and `task2.pth` in image task folder .
+3.  **Run Image Task (EXXA2):**
     *   Navigate to `image_task/`.
     *   Run `Image_Test.ipynb`.
     *   Set `TRAIN_FROM_SCRATCH = False` to use the provided `task2.pth` weights.
-3.  **Run General Task:**
+4.  **Run General Task:**
     *   Navigate to `general_test/`.
     *   Run `General_Test.ipynb`.
     *   Set `TRAIN_FROM_SCRATCH = False` to use the provided `task1.pth` weights.
