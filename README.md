@@ -76,14 +76,14 @@ Standard generic autoencoders struggle with the specific geometry of astronomica
     *   **Planet candidates** get **5000x** validation signal.
 3.  **Joint Planet Head:** A specialized auxiliary head trained simultaneously to detect planet signatures from the latent bottleneck.
 4.  **Bottleneck Self-Attention:** Ensures global coherence of rings (symmetry) across the image.
-![ModelArchitecture](image_task/diskvae_task2-1.svg)
+![ModelArchitecture](image_task/diskVAE_task2_archi.svg)
 ### Performance & Metrics
 The model was evaluated on a held-out test set (20% split).
 
 | Metric | Score | Note |
 | :--- | :--- | :--- |
-| **MSE** | **~0.0003** | Extremely low reconstruction error. |
-| **MS-SSIM** | **~0.975** | High structural similarity (captures rings/gaps). |
+| **MSE** | **~0.00003** | Extremely low reconstruction error. |
+| **MS-SSIM** | **~0.9989** | High structural similarity (captures rings/gaps). |
 | **Latent Dim** | **128** | Dense, accessible latent space for analysis. |
 
 #### Reconstruction Sample
@@ -99,14 +99,6 @@ To run inference on new data:
 3.  It returns reconstructions, latent vectors, and planet probability maps.
 
 ---
-## 🛠️ Installation & Usage
-
-### Dependencies
-The project relies on standard scientific Python libraries and PyTorch.
-```bash
-pip install torch torchvision numpy matplotlib astropy scipy scikit-learn scikit-image tqdm pytorch-msssim
-```
-
 ### Running the Notebooks
 **Both notebooks are self-contained.**
 
