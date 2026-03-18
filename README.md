@@ -49,10 +49,10 @@ Methodology
 
 
 #### Pipeline Diagram
-![pipelineArchitecture](general_task_task/general_test_pipeline_v2.svg)
+![pipelineArchitecture](general_task/general_test_pipeline_v2.svg)
 
 #### Clustering Results
-![pipelineArchitecture](general_task_task/clustermap.png)
+![pipelineArchitecture](general_task/clustermap.png)
 The UMAP projection shows each disk as a single point projected from 128 dimensions. Shape encodes planet count. Circles for 0 planets, squares for 1, triangles for 2 or more. Color and letter suffix indicate the GMM morphological subcluster within each group.
 Show Image
 
