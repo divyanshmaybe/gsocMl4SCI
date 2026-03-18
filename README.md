@@ -47,11 +47,15 @@ gsoc-2026-exxa/
 4.  **Analysis:** The resulting clusters clearly separated transition disks, multi-ring systems, and smooth disks.
 
 #### Pipeline Diagram
-![Task 1 Pipeline](general_test/general_test_pipeline_v2(1).svg)
+![Task 1 Pipeline](general_test/general_test_pipeline_v2.svg)
 
 ### Clustering Results
 The clustering successfully separates disks based on their morphological features. Below is the visualization of the learned clusters.
 ![Clustering Map](general_test/clustermap.png)
+
+### Conclusion
+The UMAP projection reveals three distinguishable morphological clusters formed purely from the latent space, with no planet count information used during clustering. Overlaying the detected planet candidates shows that disk morphology and planetary features are not independent , there is a meaningful relationship between the two but morphology alone is not a sufficient predictor of whether a planet is present. The majority of the latent space shows mixing between planet groups.
+Two signals do emerge with confidence at the extremes. The top-left cluster is strongly enriched in planet-free disks, while the bottom-right cluster contains predominantly disks hosting one or more planets. Disks that fall in these extreme morphological regions carry a noticeably higher predictive signal than those in the central mixed region, suggesting that certain structural features — localised brightness enhancements, ring asymmetries, or gap depths are genuinely associated with planet formation activity, even if the full relationship cannot be captured by morphology alone.
 
 The notebook `general_test/General_Test.ipynb` contains the full pipeline from raw FITS files to visualized clusters.
 
@@ -64,7 +68,7 @@ The notebook `general_test/General_Test.ipynb` contains the full pipeline from r
 Standard generic autoencoders struggle with the specific geometry of astronomical disks, often treating rings as noise or blurring them into a smooth gradient. **DiskVAE** introduces geometric priors directly into the architecture:
 
 #### Architecture
-![Architecture](image_task/general_test_pipeline_v2 (1).svg)
+![pipelineArchitecture](image_task/diskvae_full_architecture3.svg)
 
 1.  **Radial Conditioning:** Explicitly injects a polar coordinate grid into every layer, grounding the model in the physical reality of the disk's center-out structure.
 2.  **Attention-Weighted Loss:** Uses pre-computed "Clean" (structure-only) and "Pointness" (planet-candidate) maps to weight the loss function locally.
@@ -72,7 +76,7 @@ Standard generic autoencoders struggle with the specific geometry of astronomica
     *   **Planet candidates** get **5000x** validation signal.
 3.  **Joint Planet Head:** A specialized auxiliary head trained simultaneously to detect planet signatures from the latent bottleneck.
 4.  **Bottleneck Self-Attention:** Ensures global coherence of rings (symmetry) across the image.
-
+![ModelArchitecture](image_task/diskvae_task2-1.svg)
 ### Performance & Metrics
 The model was evaluated on a held-out test set (20% split).
 
@@ -86,6 +90,8 @@ The model was evaluated on a held-out test set (20% split).
 Here is a sample reconstruction from the test set, showing the input, reconstruction, residual (difference), and planet probability map.
 ![Reconstruction](image_task/reconstructed_image.png)
 
+### Training Results
+![Results](image_task/resultplots.png)
 ### Inference
 To run inference on new data:
 1.  Open `image_task/Image_Test.ipynb`.
