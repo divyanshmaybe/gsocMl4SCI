@@ -6,15 +6,15 @@
 
 ---
 
-## 🌟 Overview
+## Overview
 
-This repository contains the solutions for the **ML4Sci GSoC 2026** evaluation tasks. The project focuses on applying physics-informed deep learning to analyze synthetic ALMA observations of protoplanetary disks—the birthplaces of planets.
+This repository contains the solutions for the **ML4Sci GSoC 2026** test tasks. The project focuses on applying physics-informed deep learning to analyze synthetic ALMA observations of protoplanetary disks,the birthplaces of planets.
 
 The core contribution is **DiskVAE**, a specialized Variational Autoencoder designed to preserve the faint, fine-grained ring structures of protoplanetary disks that standard computer vision models often blur out. This model is key to the **Image-Based Test** (EXXA2), offering high-fidelity reconstruction and a structured latent space for scientific analysis.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```bash
 gsoc-2026-exxa/
@@ -36,7 +36,27 @@ gsoc-2026-exxa/
 
 ---
 
-## 🚀 Task 2: Image-Based Test (Primary Focus for EXXA2)
+## Task 1: General Test
+
+**Goal:** Unsupervised clustering of disks to identify properties (specifically planets) without labels.
+
+### The Methodology
+1.  **Preprocessing:** Arcsinh stretch, normalization, and central star masking.
+2.  **Feature Extraction:** Used a custom Convolutional Autoencoder to compress images into a compact latent representation.
+3.  **Clustering:** Applied **Gaussian Mixture Models (GMM)** on the latent vectors to group disks by morphology.
+4.  **Analysis:** The resulting clusters clearly separated transition disks, multi-ring systems, and smooth disks.
+
+#### Pipeline Diagram
+![Task 1 Pipeline](general_test/general_test_pipeline_v2(1).svg)
+
+### Clustering Results
+The clustering successfully separates disks based on their morphological features. Below is the visualization of the learned clusters.
+![Clustering Map](general_test/clustermap.png)
+
+The notebook `general_test/General_Test.ipynb` contains the full pipeline from raw FITS files to visualized clusters.
+
+---
+##  Task 2: Image-Based Test (Primary Focus for EXXA2)
 
 **Goal:** Train an autoencoder to reconstruct protoplanetary disk images with an accessible latent space.
 
@@ -44,7 +64,7 @@ gsoc-2026-exxa/
 Standard generic autoencoders struggle with the specific geometry of astronomical disks, often treating rings as noise or blurring them into a smooth gradient. **DiskVAE** introduces geometric priors directly into the architecture:
 
 #### Architecture
-![Architecture](image_task/diskvae_full_architecture3.svg)
+![Architecture](image_task/general_test_pipeline_v2 (1).svg)
 
 1.  **Radial Conditioning:** Explicitly injects a polar coordinate grid into every layer, grounding the model in the physical reality of the disk's center-out structure.
 2.  **Attention-Weighted Loss:** Uses pre-computed "Clean" (structure-only) and "Pointness" (planet-candidate) maps to weight the loss function locally.
@@ -73,28 +93,6 @@ To run inference on new data:
 3.  It returns reconstructions, latent vectors, and planet probability maps.
 
 ---
-
-## 🌌 Task 1: General Test
-
-**Goal:** Unsupervised clustering of disks to identify properties (specifically planets) without labels.
-
-### The Methodology
-1.  **Preprocessing:** Arcsinh stretch, normalization, and central star masking.
-2.  **Feature Extraction:** Used a custom Convolutional Autoencoder to compress images into a compact latent representation.
-3.  **Clustering:** Applied **Gaussian Mixture Models (GMM)** on the latent vectors to group disks by morphology.
-4.  **Analysis:** The resulting clusters clearly separated transition disks, multi-ring systems, and smooth disks.
-
-#### Pipeline Diagram
-![Task 1 Pipeline](general_test/general_test_pipeline_v2.svg)
-
-### Clustering Results
-The clustering successfully separates disks based on their morphological features. Below is the visualization of the learned clusters.
-![Clustering Map](general_test/clustermap.png)
-
-The notebook `general_test/General_Test.ipynb` contains the full pipeline from raw FITS files to visualized clusters.
-
----
-
 ## 🛠️ Installation & Usage
 
 ### Dependencies
