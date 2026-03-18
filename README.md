@@ -18,22 +18,23 @@ The core contribution is **DiskVAE**, a specialized Variational Autoencoder desi
 
 ```bash
 gsoc-2026-exxa/
-├── continuum_data_subset/            # Dataset (excluded from repo via .gitignore)
+├── README.md
+├── .gitignore
+├── continuum_data_subset/            # Dataset — excluded from repo via .gitignore
+│
 ├── general_test/
-│   ├── General_Test.ipynb            # [TASK 1] Unsupervised clustering pipeline
-│   ├── general_test_pipeline_v2.svg  # Methodology diagram
-│   └── clustermap.png                # Clustering visualization
+│   ├── General_Test.ipynb            # Task 1 — unsupervised clustering pipeline
+│   ├── task1.pth                     # model on drive with name task1 needs  to be placed here 
+│   ├── general_test_pipeline_v2.svg  # Pipeline methodology diagram
+│   └── clustermap.png                # UMAP cluster visualization
 │
-├── image_task/
-│   ├── Image_Test.ipynb              # [TASK 2] DiskVAE Model & Inference Pipeline
-│   ├── diskvae_full_architecture3.svg # Model Architecture
-│   ├── reconstructed_image.png       # Sample reconstruction
-│   ├── resultplots.png               # Training metrics & performance
-│   └── task2.pth                     # Pre-trained DiskVAE model weights
-│
-└── README.md                         # Documentation
+└── image_task/
+    ├── Image_Test.ipynb              # Task 2 — DiskVAE reconstruction & inference
+    ├── task2.pth                     # Model on drive with name task2 needs to be placed here in image_task
+    ├── diskVAE_task2_archi.svg       # Model architecture diagram
+    ├── reconstructed_image.png       # Sample reconstruction output
+    └── resultplots.png               # Training history & performance metrics
 ```
-
 ---
 
 ## Task 1 : General Test
@@ -111,4 +112,5 @@ To run inference on new data:
 3.  **Run General Task:**
     *   Navigate to `general_test/`.
     *   Run `General_Test.ipynb`.
+    *   Set `TRAIN_FROM_SCRATCH = False` to use the provided `task1.pth` weights.
 
