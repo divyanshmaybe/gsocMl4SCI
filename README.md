@@ -10,7 +10,7 @@
 
 This repository contains the solutions for the **ML4Sci GSoC 2026** test tasks. The project focuses on applying physics-informed deep learning to analyze synthetic ALMA observations of protoplanetary disks,the birthplaces of planets.
 
-The core contribution is **DiskVAE**, a specialized Variational Autoencoder designed to preserve the faint, fine-grained ring structures of protoplanetary disks that standard computer vision models often blur out. This model is key to the **Image-Based Test** (EXXA2), offering high-fidelity reconstruction and a structured latent space for scientific analysis.
+The core contribution is **DiskVAE**, a specialized Variational Autoencoder designed to preserve the faint, fine-grained ring structures and planets of protoplanetary disks that standard computer vision models often blur out. This model is key to the **Image-Based Test** (EXXA2), offering high-fidelity reconstruction and a structured latent space for scientific analysis.
 
 ---
 
@@ -67,7 +67,7 @@ The notebook `general_test/General_Test.ipynb` contains the full pipeline from r
 **Goal:** Train an autoencoder to reconstruct protoplanetary disk images with an accessible latent space.
 
 ### The Solution: DiskVAE (Ring-Aware VAE)
-Standard generic autoencoders struggle with the specific geometry of astronomical disks, often treating rings as noise or blurring them into a smooth gradient. **DiskVAE** introduces geometric priors directly into the architecture:
+Standard generic autoencoders struggle with the specific geometry of astronomical disks, often treating rings and planets as noise or blurring them into a smooth gradient. **DiskVAE** introduces geometric priors directly into the architecture:
 
 #### Architecture
 ![pipelineArchitecture](image_task/diskvae_full_architecture3.svg)
